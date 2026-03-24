@@ -1,0 +1,13 @@
+{
+    "clientes": [
+        {
+            "cpf": "12345678900",
+            "nome": "Alfredo Pinto",
+            "parcelas": [
+                { "id": 1, "vencimento": "10-04-2026", "valor": 150.50, "status": "aberta"},
+                { "id": 2, "vencimento": "10-03-2026", "valor": 150.50, "status": "atrasada"},
+                { "id": 3, "vencimento": "10-02-2026", "valor": 150.50, "status": "paga"}
+            ]
+        }
+    ]
+}
