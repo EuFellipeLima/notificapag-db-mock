@@ -3,10 +3,21 @@
         {
             "cpf": "12345678900",
             "nome": "Alfredo Pinto",
+            "dataNasc": "10-05-1999",
+            "tel": "22999998888",
             "parcelas": [
                 { "id": 1, "vencimento": "10-04-2026", "valor": 150.50, "status": "aberta"},
                 { "id": 2, "vencimento": "10-03-2026", "valor": 150.50, "status": "atrasada"},
                 { "id": 3, "vencimento": "10-02-2026", "valor": 150.50, "status": "paga"}
+            ]
+        },
+        {
+            "cpf": "11122233344",
+            "nome": "Robervaldo Santos",
+            "dataNasc": "26-08-1984",
+            "tel": "22977775555",
+            "parcelas": [
+                { "id": 1, "vencimento": "21-01-2026", "valor": 256.80, "status": "paga"}
             ]
         }
     ]
