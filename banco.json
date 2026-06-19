@@ -19,6 +19,49 @@
             "parcelas": [
                 { "id": 1, "vencimento": "21-01-2026", "valor": 256.80, "status": "paga"}
             ]
+        },
+        {
+            "cpf": "33344455566",
+            "nome": "Jacinto Leite Aquino",
+            "dataNasc": "01-04-1970",
+            "tel": "22988887777",
+            "parcelas": [
+                { "id": 1, "vencimento": "15-06-2026", "valor": 89.90, "status": "aberta"},
+                { "id": 2, "vencimento": "15-05-2026", "valor": 89.90, "status": "atrasada"},
+                { "id": 3, "vencimento": "15-04-2026", "valor": 89.90, "status": "atrasada"},
+                { "id": 4, "vencimento": "15-03-2026", "valor": 89.90, "status": "atrasada"}
+            ]
+        },
+        {
+            "cpf": "99988877766",
+            "nome": "Astolfo Boaventura",
+            "dataNasc": "12-12-1955",
+            "tel": "22966664444",
+            "parcelas": [
+                { "id": 1, "vencimento": "05-08-2026", "valor": 1200.00, "status": "aberta"},
+                { "id": 2, "vencimento": "05-07-2026", "valor": 1200.00, "status": "aberta"},
+                { "id": 3, "vencimento": "05-06-2026", "valor": 1200.00, "status": "aberta"}
+            ]
+        },
+        {
+            "cpf": "55566677788",
+            "nome": "Dona Marocas",
+            "dataNasc": "28-02-1960",
+            "tel": "22955553333",
+            "parcelas": [
+                { "id": 1, "vencimento": "10-02-2026", "valor": 45.00, "status": "paga"},
+                { "id": 2, "vencimento": "10-01-2026", "valor": 45.00, "status": "paga"},
+                { "id": 3, "vencimento": "10-12-2025", "valor": 45.00, "status": "paga"}
+            ]
+        },
+        {
+            "cpf": "00011122233",
+            "nome": "Zeca Urubu",
+            "dataNasc": "13-08-1992",
+            "tel": "22944442222",
+            "parcelas": [
+                { "id": 1, "vencimento": "01-05-2026", "valor": 350.00, "status": "atrasada"}
+            ]
         }
     ]
 }
